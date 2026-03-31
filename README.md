@@ -1,11 +1,12 @@
-# 👨‍💻 Naulesh Kumar
+# 👨‍💻 Naulesh Raj
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=35&fontColor=ffffff" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=35&fontColor=ffffff" />--> 
+<img src="nauleshraj.png">
 </p>
 
 ## 🚀 About Me
-Hi 👋, I'm **Naulesh Kumar**  
+Hi 👋, I'm **Naulesh Raj**  
 💡 Passionate about building impactful digital experiences  
 
 - 🌱 Currently learning: **Your Skill**
